@@ -1,6 +1,6 @@
 # MM32SPIN05 based Hoberboard hack
 
-This project is EFery Hoverboard hack clone for MM32SPIN05 (https://github.com/EFeru/hoverboard-firmware-hack-FOC)
+This project is EFeru Hoverboard hack clone for MM32SPIN05 (https://github.com/EFeru/hoverboard-firmware-hack-FOC)
 <img src="hardware/IMG_6922.JPG">
 
 Only UART control is functional.
